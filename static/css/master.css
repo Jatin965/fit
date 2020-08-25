@@ -1,0 +1,5 @@
+.bd {
+  background-image: url('{{ STATIC_URL }}images/4782.jpg');
+  background-repeat:no-repeat;
+  background-size:100%;
+}
